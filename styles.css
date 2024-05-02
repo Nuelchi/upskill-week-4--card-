@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+}
+.card {
+    background-color: rgb(209, 133, 40);
+    padding: 30px;
+    margin: auto;
+    width: 40%;
+    text-align: center;
+    margin-top: 40px;
+}
+#image {
+border-radius: 50%;
+height: 200px;
+width: 200px;
+}
+.content {
+text-align: left;
+margin: auto;
+width: 60%;
+margin-left: 150px;
+}
+.job {
+    font-weight: bold;
+    color: green;
+}
+.duty {
+    text-align: left;
+    color: green;
+    font-weight: bold;
+    width: 40%;
+    margin-right: 100px;
+    margin: auto;
+
+}
